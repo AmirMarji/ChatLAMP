@@ -6,6 +6,9 @@ body {
 }
 
 
+li {
+    list-style-type: none;
+}
 
 nav li {
     display: inline;
@@ -17,9 +20,7 @@ nav li :hover {
 }
 
 
-li {
-    list-style-type: none;
-}
+
 
 .container {
     position: absolute;
